@@ -3,6 +3,13 @@
 Created on Sun Feb 12 13:38:04 2023
 
 @author: HAMID
+
+This code generates a noisy signal by adding filtered random
+noise to a 2 Hz sine wave and then plots the signal in time
+alongside various spectral analyses: magnitude spectrum,
+logarithmic magnitude spectrum (in dB), phase spectrum,
+and angle spectrum, 
+
 """
 
 import matplotlib.pyplot as plt
