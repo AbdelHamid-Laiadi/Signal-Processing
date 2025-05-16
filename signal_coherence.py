@@ -2,6 +2,15 @@
 """
 Created on Sun Feb 12 13:07:19 2023
 
+This code creates two noisy signals that both contain a nearly
+identical 10 Hz sine wave but different random noise,
+then plots the signals over a short time window and 
+displays their coherence, which measures how well the
+two signals are related in the frequency domain,
+       
+     
+
+
 @author: HAMID
 """
 
