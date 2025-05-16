@@ -3,6 +3,12 @@
 Created on Sun Feb 12 13:16:03 2023
 
 @author: HAMID
+
+This code generates a noisy signal by combining a 20 Hz sine wave
+with filtered random noise, then plots the signal over time and 
+its frequency content using a power spectral density plot to show
+which frequencies are present in the signal.
+
 """
 
 import matplotlib.pyplot as plt
